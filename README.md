@@ -393,7 +393,7 @@
     <div class="container">
         <div class="resume-card">
             <div class="header">
-                <div class="profile-img">Megha Jain</div>
+                <div class="name">Megha Jain</div>
                 <h1 class="name">Technical Documentation Professional</h1>
                 <p class="title">Lead Technical Writer & Documentation Manager</p>
                 <div class="contact-info">
