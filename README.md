@@ -1,5 +1,5 @@
 <head>
-    <meta charset="UTF-8">
+ <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Megha Jain </title>
     <style>
@@ -393,13 +393,13 @@
     <div class="container">
         <div class="resume-card">
             <div class="header">
-                <div class="profile-img">TD</div>
+                <div class="profile-img">Megha Jain</div>
                 <h1 class="name">Technical Documentation Professional</h1>
-                <p class="title">Senior Technical Writer & Documentation Manager</p>
+                <p class="title">Lead Technical Writer & Documentation Manager</p>
                 <div class="contact-info">
                     <div class="contact-item">
                         <span>📧</span>
-                        <span>your.email@example.com</span>
+                        <span>megha.jain019@gmail.com</span>
                     </div>
                     <div class="contact-item">
                         <span>📱</span>
