@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Professional Resume - Technical Documentation Expert</title>
+    <title>Megha Jain - Technical Documentation Expert</title>
     <style>
         * {
             margin: 0;
